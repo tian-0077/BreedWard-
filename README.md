@@ -21,5 +21,15 @@ This is the Flutter mobile application for the Breedward IoT-based aquaponics sy
 App UI
 
 Front Screen
+![Water Sensor](image/front.png)
+
+Home Screen
+![Water Sensor](image/home.png)
+
+Reset Screen
+![Water Sensor](image/rst.png)
+
+Settings Screen
+![Water Sensor](image/sett.png)
 
 
