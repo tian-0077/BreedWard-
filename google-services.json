@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "767423513180",
+    "project_id": "breedward1",
+    "storage_bucket": "breedward1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767423513180:android:f0eaaf407c13f8bde61c99",
+        "android_client_info": {
+          "package_name": "com.example.breedward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767423513180-0tntljog5h71o8oole73potvb2cne1b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwv3SF-GNUjXMUB010JexwbXz3A_2e7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767423513180-0tntljog5h71o8oole73potvb2cne1b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767423513180:android:79c2ba3fbdcd9c2be61c99",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767423513180-0tntljog5h71o8oole73potvb2cne1b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwv3SF-GNUjXMUB010JexwbXz3A_2e7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767423513180-0tntljog5h71o8oole73potvb2cne1b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
